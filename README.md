@@ -3,5 +3,5 @@
 
 Hi welcome
 
-github ,you are  grown software, you should learn yourself
+github ,you are a grown software, you should learn yourself
 
